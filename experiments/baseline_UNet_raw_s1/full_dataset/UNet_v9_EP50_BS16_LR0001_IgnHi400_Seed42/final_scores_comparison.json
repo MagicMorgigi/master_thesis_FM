@@ -1,0 +1,24 @@
+{
+    "metadata": {
+        "seed": 42,
+        "sample_size": 18200000,
+        "ignore_high_values": true,
+        "ignore_threshold": 400.0
+    },
+    "full_test_set": {
+        "Dataset": "Full Valid Test Set",
+        "Count": 181377071,
+        "MSE": 1755.8125,
+        "RMSE": 41.902416398102865,
+        "MAE": 25.901094436645508,
+        "R2": 0.646139919757843
+    },
+    "subsample": {
+        "Dataset": "Subsample (n=18,200,000)",
+        "Count": 18200000,
+        "MSE": 1755.473876953125,
+        "RMSE": 41.89837558847747,
+        "MAE": 25.90260887145996,
+        "R2": 0.6459920406341553
+    }
+}

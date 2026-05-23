@@ -1,0 +1,9 @@
+Full Test Set Metrics:
+Test RMSE: 72.16190338134766
+Test MAE: 54.5763053894043
+Test R2: 0.03104567527770996
+------------------------------
+Subset (278 images) Metrics:
+RMSE: 68.6880
+MAE: 52.7127
+R2: 0.0268

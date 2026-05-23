@@ -1,3 +1,71 @@
+# 1. Heavy Data and Storage (Google Drive Only)
+# Handles case-sensitivity variations (Datasets, datasets, DATASETS)
+[Dd][Aa][Tt][Aa][Ss][Ee][Tt][Ss]/
+[Dd]atasets/
+Datasets/
+data/
+datasets/
+
+# Common large file extensions
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.csv
+*.tsv
+*.jsonl
+*.parquet
+*.h5
+*.hdf5
+
+# 2. Deep Learning Model Weights & Checkpoints
+*.pt
+*.pth
+*.ckpt
+*.weights
+*.pb
+*.onnx
+checkpoint*/
+checkpoints/
+wandb/
+runs/
+
+# 3. Python, Jupyter, and Colab System Junk
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.pytest_cache/
+aj_compiled_lang/
+.xlwings/
+
+# 4. OS and Cloud-Specific Hidden Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+Icon\r
+
+# 5. IDEs and Virtual Environments
+.venv/
+env/
+venv/
+ENV/
+.env
+.vscode/
+.idea/
+.spyproject/
+
+# 6. Thesis Archivierung (Lokal & Google Drive Only)
+[Aa]rchiv/
+[Aa]rchive/
+**/archiv/
+**/archive/
+
+##################### FROM HERE ON PRE_DEFINED
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
