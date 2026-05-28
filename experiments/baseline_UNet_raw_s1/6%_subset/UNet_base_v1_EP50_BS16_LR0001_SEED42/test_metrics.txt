@@ -1,5 +1,0 @@
-=== FINAL TEST METRICS ===
-Test MSE: 8862.1031
-Test RMSE: 88.5654
-Test MAE: 61.9438
-Test R2: -0.9957

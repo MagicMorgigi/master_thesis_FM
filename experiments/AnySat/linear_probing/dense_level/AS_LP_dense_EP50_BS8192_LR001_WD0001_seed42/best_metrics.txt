@@ -1,7 +1,0 @@
-Best Model Metrics (Achieved at Epoch 26)
----------------------------------------------
-Train MSE : 7869.7985
-Val MSE   : 7867.1561
-Val RMSE  : 87.8543
-Val MAE   : 72.2654
-Val R2    : 0.1748
