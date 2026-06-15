@@ -18,6 +18,8 @@ datasets/
 *.parquet
 *.h5
 *.hdf5
+*.png
+*.jpeg
 
 # 2. Deep Learning Model Weights & Checkpoints
 *.pt
@@ -284,3 +286,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+**/*.png
+**/*.jpg
+**/*.jpeg
