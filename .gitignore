@@ -20,6 +20,7 @@ datasets/
 *.hdf5
 *.png
 *.jpeg
+*.jpg
 
 # 2. Deep Learning Model Weights & Checkpoints
 *.pt
@@ -284,8 +285,3 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Streamlit
-.streamlit/secrets.toml
-**/*.png
-**/*.jpg
-**/*.jpeg
